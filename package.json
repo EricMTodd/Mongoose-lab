@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-lab",
+  "version": "1.0.0",
+  "description": "Create a simple terminal app that does the following.  There is no express, so the app should run once, perform the actions described, in the order in which they're described, and then exit.",
+  "main": "article.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricMTodd/Mongoose-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricMTodd/Mongoose-lab/issues"
+  },
+  "homepage": "https://github.com/EricMTodd/Mongoose-lab#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
